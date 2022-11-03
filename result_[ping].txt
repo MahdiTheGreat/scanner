@@ -1,0 +1,5 @@
+Reply from 93.184.216.34, 29 bytes in 195.56ms
+
+Round Trip Times min/avg/max is 195.56/195.56/195.56 msReply from 93.184.216.34, 29 bytes in 202.0ms
+
+Round Trip Times min/avg/max is 202.0/202.0/202.0 ms
