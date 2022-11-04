@@ -3,11 +3,10 @@ import nmap
 def host_scanner(host,starting_port,last_port):
  nm = nmap.PortScanner()
  #22-443
- args=["-sS","-sT","-sU"]
+ args=["-sS","-sT","-sA","-sW","-sM",'-sN','-sF','-sX','-sU','-sY','-sZ','-sO','-b','-O']
  port_bitmap=dict()
  for i in range(starting_port,last_port + 1):
      port_bitmap[i]=-1
-
  for arg in args:
   nm.scan(host, str(starting_port)+"-"+str(last_port),arguments=arg)
   for host in nm.all_hosts():

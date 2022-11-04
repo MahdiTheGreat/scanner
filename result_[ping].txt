@@ -1,5 +1,9 @@
-Reply from 93.184.216.34, 29 bytes in 195.56ms
+paging google.com[142.251.41.4] with 32 bytes of data:
+
+Reply from 216.239.38.120, 32 bytes in 50.67ms
 
-Round Trip Times min/avg/max is 195.56/195.56/195.56 msReply from 93.184.216.34, 29 bytes in 202.0ms
-
-Round Trip Times min/avg/max is 202.0/202.0/202.0 ms
+Round Trip Times min/avg/max is 50.67/50.67/50.67 ms
+packets sent: 1
+packets returned: 1
+packets lost: 0
+lost ratio: 0.0
