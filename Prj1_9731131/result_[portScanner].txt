@@ -1,0 +1,4 @@
+unspecified ports are closed
+port 22 is open
+port 80 is filtered
+port 500 is open

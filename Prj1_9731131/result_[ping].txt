@@ -1,0 +1,9 @@
+paging google.com[216.239.38.120] with 32 bytes of data:
+
+Reply from 216.239.38.120, 32 bytes in 62.8ms
+
+Round Trip Times min/avg/max is 62.8/62.8/62.8 ms
+packets sent: 1
+packets returned: 1
+packets lost: 0
+lost ratio: 0.0
